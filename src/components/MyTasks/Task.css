@@ -1,0 +1,22 @@
+.mytask
+{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border: hotpink 1px solid;
+    align-items: center;
+}
+.mytask_list
+{
+    display:flex;
+    flex-direction: column;
+    
+}
+.mytask_name
+{
+    margin-left: 20px;
+}
+.mytask_image
+{   
+    width: 200px;
+}

@@ -1,0 +1,114 @@
+.categories{
+    margin: 20px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.categories_btns
+{
+    display: flex;
+    margin-left: 50px;
+}
+.categories_btns button
+{
+    display: flex;
+    margin-left: 20px;
+}
+.categories_content
+{
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.categories_list
+{
+    display:flex;
+    width: 100%;
+    flex-direction: column;
+}
+.category
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+.category_wrap:hover
+{
+    border: indianred 2px solid;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}
+.category_wrap
+{
+    display: flex;
+    align-items: center;
+}
+.category_delete
+{
+    float: right;
+    display: flex;
+    margin-right: 10px;
+    height: 30px;
+}
+.category_name
+{
+    border: 1 px solid palevioletred; 
+    margin: 10px;
+}
+.category img
+{
+    width: 40px;
+}
+.categories__list_header
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border-bottom:indianred 1px solid;
+    justify-content:space-around ;
+}
+.task_list
+{
+    display: flex;
+    width: 100%;
+}
+.task{
+    width: 100%;
+    display: flex;
+    flex-direction: raw;
+    justify-content:space-around ;
+}
+.task_image
+{
+    width: 40px;
+    height: 40px;
+}
+
+.categories_header
+{
+    display: flex;
+}
+.task_container
+{
+    margin-top: 10px;
+    width: 100%;
+    display:flex;
+    flex-direction: raw;
+}
+.img_logo img
+{
+    height: 10px;
+}
+.task_image_url
+{
+    width: 50px;
+}
+.task_image_url:hover
+{
+    position:static;
+    width: 150px;
+}

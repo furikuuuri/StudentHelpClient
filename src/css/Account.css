@@ -1,0 +1,33 @@
+.acc_container
+{
+    display: flex;
+    color:hotpink;
+    flex-direction: column;
+    width: 100%;
+}
+.acc_header
+{
+    font-size: 30px;
+    align-self: center;
+    display: flex;
+}
+.acc_wrapp
+{
+    width: 500px;
+    margin-left: 40px;
+    float: left;
+    flex-direction: column;
+    display: flex;
+}
+.acc_info
+{
+    margin-left: 40px;
+   display: flex;
+}
+.acc_button
+{
+    display: flex;
+    
+    margin-top: 20px;
+    align-self: flex-end;
+}

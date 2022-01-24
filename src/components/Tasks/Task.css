@@ -1,0 +1,18 @@
+.category
+{
+    display: flex;
+    
+}
+.category_name
+{
+    margin-left: 10px;
+}
+img
+{
+width: 30px;
+}
+.category_button
+{
+    margin-left: 50px;
+    
+}
